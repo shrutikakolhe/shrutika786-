@@ -78,4 +78,3 @@
 
 *"Transforming complex data into actionable insights that drive business growth and operational efficiency"*
 
-![Profile Views](https://komarev.com/ghpvc/?u
